@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "651167914347",
+    "project_id": "ladm-u3-p1-sqlfire-8fbe7",
+    "storage_bucket": "ladm-u3-p1-sqlfire-8fbe7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651167914347:android:1ecc9bdee3b9bf837e142e",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u3_p1_sqlfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651167914347-a3cbpukc9d68o4fj9v5n01ess3gp6ejn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFMoE6WKJDer2ErgiD3OHDaqhswztGZho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "651167914347-a3cbpukc9d68o4fj9v5n01ess3gp6ejn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
